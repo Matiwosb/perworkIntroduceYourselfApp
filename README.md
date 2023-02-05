@@ -9,8 +9,6 @@ number of pets, and if you want more pets. After your enter and submit by clicki
 
 ![SUniversity](https://user-images.githubusercontent.com/46619502/216807387-2a744059-7fae-4904-b712-d8ecc98485d0.gif)
 
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
