@@ -9,7 +9,8 @@ number of pets, and if you want more pets. After your enter and submit by clicki
 
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
-<img src="https://www.kapwing.com/videos/63df5687f0a591002403fb71" width=200><br>
+<!--<img src="https://www.kapwing.com/videos/63df5687f0a591002403fb71" width=200><br>-->
+<div style="height: 603.06px; width: 300.00px; position:relative;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/63df5687f0a591002403fb71?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
